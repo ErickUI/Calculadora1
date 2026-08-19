@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calculadora Web - CI
 
 ## Ejecutar
@@ -15,3 +16,6 @@
 `npm run build`
 
 El build crea la carpeta `dist/`.
+=======
+# Calculadora1
+>>>>>>> dffffe0d197d92b419a71097e6a93822a99a9cef
